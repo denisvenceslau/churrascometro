@@ -1,0 +1,38 @@
+
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 420px;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 20px;
+    border-radius: 10px;
+ 
+}
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+img{
+    max-width: 420px;
+}
+#calcular{
+    background-color: white;
+    color: black;
+    width: 120px;
+    height: 30px;
+    align-content: center;
+    margin: auto;
+    margin-left: 140px;   
+    border-radius: 3px;
+ 
+}
+#resultado{
+    margin: auto;
+    text-align: center;
+}
+.resultImg{
+    width: 20px;
+}
